@@ -1,0 +1,25 @@
+{
+  "name": "AHNTOS Best-Buyer Bot",
+  "version": "1.0.0",
+  "description": "Jump to the front of the line.",
+
+  "best-buy": {
+    "username": "",
+    "password": "",
+    "cvv": ""
+  },
+
+  "mail": {
+    "sender": "",
+    "receiver": "",
+    "smtp": "",
+    "port": 000
+  },
+
+  "scripts" : {
+    "start": "node bot.js"
+  },
+
+  "author": "Ahmad Joyner",
+  "license": "AHNTOS"
+}
